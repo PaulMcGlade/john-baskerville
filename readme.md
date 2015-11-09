@@ -7,5 +7,8 @@ Each week we will be building on this project as we progress through HTML and CS
 ##2nd November 2015
 [version1] http://paulmcglade.github.io/john-baskerville/version-1.html
 
-##9th November 2015
+##9th November 2015 Add List
 [version2] http://paulmcglade.github.io/john-baskerville/version-2.html
+
+##9th November 2015 Add navigation
+[version3] http://paulmcglade.github.io/john-baskerville/version-3.html
