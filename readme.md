@@ -6,3 +6,6 @@ Each week we will be building on this project as we progress through HTML and CS
 
 ##2nd November 2015
 [version1] http://paulmcglade.github.io/john-baskerville/version-1.html
+
+##2nd November 2015
+[version2] http://paulmcglade.github.io/john-baskerville/version-2.html
