@@ -5,13 +5,16 @@
 Each week we will be building on this project as we progress through HTML and CSS. This exercise is part of the [IxD Belfast] module
 
 ##2nd November 2015
-[version1] http://paulmcglade.github.io/john-baskerville/version-1.html
+[Version 1] http://paulmcglade.github.io/john-baskerville/version-1.html
 
 ##9th November 2015 Add List
-[version2] http://paulmcglade.github.io/john-baskerville/version-2.html
+[Version 2] http://paulmcglade.github.io/john-baskerville/version-2.html
 
 ##9th November 2015 Add navigation
-[version3] http://paulmcglade.github.io/john-baskerville/version-3.html
+[Version 3] http://paulmcglade.github.io/john-baskerville/version-3.html
 
 ##16th November 2015 Add TABLE
-[version4] http://paulmcglade.github.io/john-baskerville/version-4.html
+[Version 4] http://paulmcglade.github.io/john-baskerville/version-4.html
+
+##16th November 2015 Add Images
+[Version 5] http://paulmcglade.github.io/john-baskerville/version-5.html
