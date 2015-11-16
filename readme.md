@@ -6,16 +6,20 @@ Each week we will be building on this project as we progress through HTML and CS
 
 ##2nd November 2015
 [Version 1] http://paulmcglade.github.io/john-baskerville/version-1.html
+<a href="http://paulmcglade.github.io/john-baskerville/version-1.html">Version 1</a>
 
 ##9th November 2015 Add List and Navigation:
 
 [Version 2] http://paulmcglade.github.io/john-baskerville/version-2.html
+<a href="http://paulmcglade.github.io/john-baskerville/version-2.html">Version 2</a>
 
 [Version 3] http://paulmcglade.github.io/john-baskerville/version-3.html
+<a href="http://paulmcglade.github.io/john-baskerville/version-3.html">Version 3</a>
 
 ##16th November 2015 Add Table and Images:
 
 [Version 4] http://paulmcglade.github.io/john-baskerville/version-4.html
+<a href="http://paulmcglade.github.io/john-baskerville/version-4.html">Version 4</a>
 
 [Version 5] http://paulmcglade.github.io/john-baskerville/version-5.html
 
