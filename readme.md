@@ -12,3 +12,6 @@ Each week we will be building on this project as we progress through HTML and CS
 
 ##9th November 2015 Add navigation
 [version3] http://paulmcglade.github.io/john-baskerville/version-3.html
+
+##16th November 2015 Add TABLE
+[version4] http://paulmcglade.github.io/john-baskerville/version-4.html
