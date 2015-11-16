@@ -21,6 +21,5 @@ Each week we will be building on this project as we progress through HTML and CS
 [Version 4] http://paulmcglade.github.io/john-baskerville/version-4.html
 <a href="http://paulmcglade.github.io/john-baskerville/version-4.html">Version 4</a>
 
-[Version 5] http://paulmcglade.github.io/john-baskerville/version-5.html
 
 <a href="http://paulmcglade.github.io/john-baskerville/version-5.html">Version 5</a>
