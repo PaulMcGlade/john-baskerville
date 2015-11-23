@@ -27,4 +27,55 @@ body {
             
         h3 {font-size: 1.5em;}
 
-.intro {font-size: 1.5em;}
+        .intro { 
+            font-size: 1.25em;
+            line-height: 1.9em;
+            padding: 2em  0em  2em  0em;
+            
+        }
+
+        .the-man { 
+            
+            padding: 2em  0em  2em  0em;
+            
+            }
+        
+        .the-typeface { 
+            
+            padding: 2em  0em  2em  0em;
+            
+            }
+        
+        .mrs-eaves { 
+            
+            padding: 2em  0em  2em  0em;
+            
+            }
+
+/* table */
+
+        td { 
+            
+            padding: 30px;
+            
+            }
+
+
+            
+/*Image Float*/
+
+            img {
+                float: right;
+                margin: 0 0 10px 10px;
+            }
+
+/*---------------------Links---------------------*/
+
+a{
+    
+    color: #c06;
+    text-decoration: none;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    
+}
