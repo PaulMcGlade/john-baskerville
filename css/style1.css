@@ -52,7 +52,7 @@ body {
             
             }
 
-/* table */
+/*-------------------Table-------------------- */
 
         td { 
             
@@ -62,20 +62,43 @@ body {
 
 
             
-/*Image Float*/
+/*------------------Image Float-------------------*/
 
             img {
                 float: right;
                 margin: 0 0 10px 10px;
             }
 
+
+
 /*---------------------Links---------------------*/
 
-a{
+            a{
+
+                color: #c86;
+                text-decoration: none;
+                text-transform: uppercase;
+                letter-spacing: 2px;
+
+            }
+
+            
+            a:hover {
+                
+                color: gold;
+                border-bottom: 1px dotted;
+            }
+
+/*---------------------Nav---------------------*/
+
+
+            nav {
+                
+                border-top: 1px solid #333;
+                border-bottom: 1px solid #333;
     
-    color: #c06;
-    text-decoration: none;
-    text-transform: uppercase;
-    letter-spacing: 2px;
     
 }
+
+
+
