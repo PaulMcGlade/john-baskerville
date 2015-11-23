@@ -19,3 +19,7 @@ Each week we will be building on this project as we progress through HTML and CS
 <a href="http://paulmcglade.github.io/john-baskerville/version-4.html">Version 4</a>
 
 <a href="http://paulmcglade.github.io/john-baskerville/version-5.html">Version 5</a>
+
+##23th November 2015 Add CSS style sheet:
+
+<a href="http://paulmcglade.github.io/john-baskerville/version-6.html">Version 6</a>
