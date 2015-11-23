@@ -17,6 +17,8 @@ body {
             color: #c86;
             
         }
+
+/* Typography */
         
         
         h1 {font-size: 3.375em;}
@@ -24,3 +26,5 @@ body {
         h2 {font-size: 2.25em;}
             
         h3 {font-size: 1.5em;}
+
+.intro {font-size: 1.5em;}
