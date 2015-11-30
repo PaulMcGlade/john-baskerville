@@ -44,7 +44,14 @@ body {
             margin: -.5em 0 1em 0;
         }
 
-        .intro { 
+        
+p{
+    font-size: 1em;
+    line-height: 1.8em;
+}
+
+
+.intro { 
             font-size: 1.25em;
             line-height: 1.9em;
             padding: 2em  0em  2em  0em;
@@ -113,20 +120,37 @@ body {
 
 /*-------------------Table-------------------- */
 
-        td { 
-            
-            padding: 30px;
-            
-            }
+table{
+    margin: auto;
+    width: 100%;
+    border-collapse: collapse;
+    border-spacing: 2px;
+    border-color: #c06;
+}        
+
+caption{
+    margin-bottom: 1.5em;
+    text-transform: uppercase;
+}
+
+table.head, th{
+    color: burlywood;
+    text-transform: uppercase;
+    font-weight: normal;
+    text-align: left;
+    background: #333;
+}
 
 
+th, td{
+    padding: .6em;
+}
             
-/*------------------Image Float-------------------*/
 
-            img {
-                float: right;
-                margin: 0 0 10px 10px;
-            }
+table, th, td{
+    background: hotpink;
+    border: 1px solid #fff;
+}
 
 
 
@@ -159,6 +183,7 @@ body {
                 
                 border-top: 1px solid #333;
                 border-bottom: 1px solid #333;
+                
     
     
             }
@@ -167,13 +192,13 @@ body {
             nav ul {
 
                 text-align: center;
-                letter-spacing: 2px;
+                letter-spacing: 10px;
             }
 
             nav ul li {
 
                 display: inline;
-                margin: 20px;
+                margin: 10px;
             }
 
 
