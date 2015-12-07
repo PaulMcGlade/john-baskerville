@@ -14,7 +14,7 @@ Each week we will be building on this project as we progress through HTML and CS
 
 <a href="http://paulmcglade.github.io/john-baskerville/version-3.html">Version 3</a>
 
-##16th November 2015 Add Table and Images:
+##16th November 2015 Add Table plus Images:
 
 <a href="http://paulmcglade.github.io/john-baskerville/version-4.html">Version 4</a>
 
