@@ -20,6 +20,6 @@ Each week we will be building on this project as we progress through HTML and CS
 
 <a href="http://paulmcglade.github.io/john-baskerville/version-5.html">Version 5</a>
 
-##23th November 2015 Add CSS style sheet:
+##23th November 2015 Add CSS stylesheet:
 
 <a href="http://paulmcglade.github.io/john-baskerville/version-6.html">Version 6</a>
